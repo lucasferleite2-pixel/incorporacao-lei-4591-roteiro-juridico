@@ -1,6 +1,6 @@
 # Inventário de modelos de contrato
 
-Dez dos dezesseis modelos deste inventário têm texto integral incorporado em 18/11/2026, conferido contra os arquivos-fonte. Seis seguem aguardando os textos originais. Nenhum modelo foi inventado neste arquivo: os itens com texto trazem o texto integral; os itens aguardando trazem o conteúdo mínimo que a lei exige deles.
+Onze dos dezesseis modelos deste inventário têm texto integral incorporado em 18/11/2026, conferido contra os arquivos-fonte. Cinco seguem aguardando os textos originais. Nenhum modelo foi inventado neste arquivo: os itens com texto trazem o texto integral; os itens aguardando trazem o conteúdo mínimo que a lei exige deles.
 
 ## Com texto integral
 
@@ -44,6 +44,10 @@ Texto integral incorporado em references/modelos-requerimento-afetacao.md — co
 
 Texto integral incorporado em references/modelos-contrato-duplo.md — conferido em 18/11/2026. É o contrato de promessa de compra e venda de fração ideal e construção por administração a preço de custo. A primeira cláusula é o cabeçalho, a segunda é o contrato da fração ideal e a terceira é o contrato da construção. Só o contrato duplo a preço de custo: o de preço fechado não existe e não foi reconstruído.
 
+### Cláusula compromissória cheia de arbitragem
+
+Texto integral incorporado em references/modelos-clausula-compromissoria.md — conferido em 18/11/2026. É a cláusula compromissória completa da Lei 9.307/1996, com câmara, regulamento, idioma e número ímpar de árbitros. Ressalva: os três contratos com texto integral nesta skill trazem foro, não arbitragem — a cláusula é um anexo avulso e não está inserida em nenhum modelo.
+
 ## Aguardando os textos originais
 
 ### Promessa de compra e venda do terreno, alínea a
@@ -62,10 +66,6 @@ Não é um modelo: há um roteiro para redigir a convenção de condomínio, apr
 
 É o contrato-padrão com as cláusulas comuns a todos os adquirentes, transcrito no cartório de registro de imóveis, com indicação de livro e folhas. O adquirente recebe cópia autenticada do contrato-padrão ao receber seu instrumento.
 
-### Cláusula compromissória cheia de arbitragem
-
-É a cláusula compromissória completa da Lei 9.307/1996, com câmara, regulamento, idioma e número ímpar de árbitros. Os contratos recebidos trazem foro, não arbitragem.
-
 ### Termo de recebimento da unidade
 
 O termo de recebimento termina com frase escrita de próprio punho pelo comprador, na qual ele declara que registrará ali qualquer reclamação feita. A orientação está em SKILL.md (método). O conteúdo do termo está descrito na promessa, cláusula 3.17.3, em references/modelos-contrato-duplo.md. O modelo integral autônomo segue aguardando.
@@ -81,7 +81,7 @@ Os modelos abaixo já existem nesta skill, em references/modelos-rizzardo.md. S�
 - Contrato duplo com os adquirentes: o texto integral (a preço de custo) está em references/modelos-contrato-duplo.md. Veja o Modelo de contrato particular de promessa de compra e venda de unidade imobiliária e de construção, item 79, p. 493-518, e o Modelo de escritura pública de venda de frações ideais e de contratação da incorporadora para a construção do prédio por administração a preço de custo, item 141.4.2, p. 923-927, em references/modelos-rizzardo.md, seções 8 e 16.
 - Promessa de compra e venda do terreno: sem correspondente. Veja o Modelo de instrumento particular de contrato de compromisso de venda e compra de unidade imobiliária em construção, item 78, p. 485-492, em references/modelos-rizzardo.md, seção 7. O objeto é outro: unidade em construção, não terreno. O texto da promessa do terreno segue aguardando os textos originais.
 - Procuração para vender, Histórico dos títulos, Declaração do art. 39, Declaração de carência, Declaração de vagas de garagem: o texto integral está em references/modelos-procuracao.md e references/modelos-memorial.md. Sem correspondente no Rizzardo.
-- Contrato-padrão do art. 67, § 4º, Cláusula compromissória cheia e Termo de recebimento: sem correspondente no Rizzardo. Seguem aguardando os textos originais.
+- Contrato-padrão do art. 67, § 4º e Termo de recebimento: sem correspondente no Rizzardo. Seguem aguardando os textos originais. A cláusula compromissória cheia tem texto integral em references/modelos-clausula-compromissoria.md.
 - Requerimento de patrimônio de afetação: o texto integral está em references/modelos-requerimento-afetacao.md. Sem correspondente no Rizzardo. O requerimento de registro de incorporação, item 92.3, é outro documento.
 - Roteiro de convenção de condomínio: o roteiro continua sendo roteiro. O modelo integral correspondente é o Modelo de convenção de condomínio de edifício, item 36, p. 212-232, em references/modelos-rizzardo.md, seção 4.
 - Modelos do Rizzardo sem equivalente no inventário: constituição de condomínio por escritura pública, item 11, p. 66-69, em references/modelos-rizzardo.md, seção 1.
@@ -94,4 +94,4 @@ Os modelos abaixo já existem nesta skill, em references/modelos-rizzardo.md. S�
 
 ## O que falta para fechar este inventário
 
-Seis modelos seguem aguardando os textos originais: promessa de compra e venda do terreno, instrumento de divisão do terreno em frações ideais, roteiro de convenção de condomínio, contrato-padrão do art. 67, § 4º, cláusula compromissória cheia de arbitragem e termo de recebimento da unidade. Os demais dez itens têm texto integral conferido em 18/11/2026. O contrato duplo a preço fechado não existe e não será reconstruído. Quando novos textos originais forem fornecidos, confira cada modelo contra o inventário, inclua o texto integral nesta skill e registre a conferência com data.
+Cinco modelos seguem aguardando os textos originais: promessa de compra e venda do terreno, instrumento de divisão do terreno em frações ideais, roteiro de convenção de condomínio, contrato-padrão do art. 67, § 4º e termo de recebimento da unidade. Os demais onze itens têm texto integral conferido em 18/11/2026. O contrato duplo a preço fechado não existe e não será reconstruído. Quando novos textos originais forem fornecidos, confira cada modelo contra o inventário, inclua o texto integral nesta skill e registre a conferência com data.
