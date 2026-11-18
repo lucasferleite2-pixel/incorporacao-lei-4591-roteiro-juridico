@@ -34,7 +34,7 @@ Texto integral incorporado em references/modelos-convencao.md — conferido em 1
 
 ### Contrato-proposta com o dono do terreno
 
-Texto integral incorporado em references/modelos-contrato-proprietario.md — conferido em 18/11/2026. É o contrato irrevogável e irretratável com o dono do terreno, em 15 cláusulas. Divergência anotada no cabeçalho do arquivo: o texto recebido não traz as duas regras do % sobre o VGV nem os kits de vagas que a Skill 2 atribui a ele; a cláusula 4, parágrafo único, dá escolha livre das vagas ao proprietário.
+Texto integral incorporado em references/modelos-contrato-proprietario.md — conferido em 18/11/2026. É o contrato irrevogável e irretratável com o dono do terreno, em 15 cláusulas. Divergência resolvida em 18/11/2026 (ver cabeçalho do arquivo): vale o texto recebido — o contrato não traz as duas regras do % sobre o VGV nem os kits de vagas; a cláusula 4, parágrafo único, dá escolha livre das vagas ao proprietário.
 
 ### Requerimento de patrimônio de afetação
 
