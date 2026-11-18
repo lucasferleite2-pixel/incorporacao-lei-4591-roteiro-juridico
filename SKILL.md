@@ -1,6 +1,6 @@
 # Incorporação imobiliária: Lei 4.591/64 e o roteiro jurídico
 
-- Os modelos de contrato fazem parte desta skill e aguardam os textos originais. O inventário dos modelos está em references/modelos-de-contrato.md.
+- Dez dos dezesseis modelos de contrato já têm texto integral: procuração, memorial de incorporação, contrato com o dono do terreno, requerimento de afetação, contrato duplo a preço de custo e minuta da convenção. O inventário completo, com os seis modelos que seguem aguardando os textos originais, está em references/modelos-de-contrato.md.
 
 - Use esta skill quando assessorar compradores ou incorporadores em incorporação imobiliária. Ela cobre a Lei 4.591/64 comentada, a proteção do comprador, os contratos e as mudanças da Lei 13.786/2018 e da Lei 14.711/2023.
 
@@ -357,7 +357,8 @@
 - Os modelos de documentos desta skill estão em references/modelos-rizzardo.md. São 16 modelos extraídos de Rizzardo, 8ª ed., 2021, com item do livro e página de origem. Os campos de valor estão em branco no original.
 - O condomínio edilício está em references/condominio-edilicio.md. Ele cobre convenção, regimento interno, assembleia, síndico, despesas e rateio e multipropriedade.
 - O suplemento de afetação, fiduciária e habite-se está em references/afetacao-fiduciaria-habite-se.md. Ele traz a doutrina de Rizzardo, 8ª ed., sobre os três temas, com a redação vigente dos arts. 26 e 27 da Lei 9.514/1997 e o Tema 1.288 do Superior Tribunal de Justiça.
-- Os modelos de contrato continuam aguardando os textos originais. O inventário deles está em references/modelos-de-contrato.md, com os correspondentes no Rizzardo anotados.
+- Os modelos de contrato com texto integral estão em references/modelos-procuracao.md, references/modelos-memorial.md, references/modelos-contrato-proprietario.md, references/modelos-requerimento-afetacao.md, references/modelos-contrato-duplo.md e references/modelos-convencao.md. Seis modelos seguem aguardando os textos originais; o inventário deles está em references/modelos-de-contrato.md, com os correspondentes no Rizzardo anotados.
+- Os quadros da NBR 12.721 em branco estão em references/quadros-nbr-12721.xlsx.
 
 ## Camada de atualidade
 

@@ -7,7 +7,7 @@ Skill para agentes de IA assessorarem compradores ou incorporadores em incorpora
 - **Lei 4.591/64 comentada** — memorial de incorporação, registro, carência, quadro-resumo, distrato (art. 67-A) e patrimônio de afetação (arts. 31-A a 31-F).
 - **Alienação fiduciária de imóvel** — arts. 26 e 27 da Lei 9.514/1997, com a redação vigente pós-Lei 14.711/2023 e o Tema 1.288 do STJ.
 - **Condomínio edilício** — convenção, regimento interno, assembleia, síndico, despesas e rateio, multipropriedade.
-- **Contratos** — 16 modelos extraídos de Rizzardo, 8ª ed., 2021, com item do livro e página de origem, e inventário dos demais modelos com o conteúdo mínimo exigido pela lei.
+- **Contratos com texto integral** — procuração, memorial de incorporação, contrato com o dono do terreno, requerimento de afetação, contrato duplo a preço de custo e minuta da convenção (10 dos 16 itens do inventário; 6 aguardam os textos originais), além de 16 modelos extraídos de Rizzardo, 8ª ed., 2021.
 - **Camada de atualidade** — Leis 13.786/2018, 14.382/2022 e 14.711/2023, com divergências jurisprudenciais marcadas sem escolha de lado.
 
 ## Como usar
@@ -26,14 +26,21 @@ references/
   afetacao-fiduciaria-habite-se.md
   condominio-edilicio.md
   modelos-rizzardo.md             # 16 modelos (Rizzardo, 8ª ed., 2021)
-  modelos-de-contrato.md          # inventário dos demais modelos
+  modelos-de-contrato.md          # inventário dos modelos de contrato
+  modelos-procuracao.md           # texto integral da procuração
+  modelos-memorial.md             # texto integral do memorial
+  modelos-contrato-proprietario.md# texto integral do contrato com o dono do terreno
+  modelos-requerimento-afetacao.md# texto integral do requerimento de afetação
+  modelos-contrato-duplo.md       # texto integral do contrato duplo a preço de custo
+  modelos-convencao.md            # texto integral da minuta da convenção
+  quadros-nbr-12721.xlsx          # quadros da NBR 12.721 em branco
   camada-atualidade.md            # vigência e divergências
 skill.yaml
 ```
 
 ## Fontes
 
-Lei 4.591/1964, Lei 9.514/1997, Lei 13.786/2018, Lei 14.382/2022, Lei 14.711/2023, Código Civil e jurisprudência do STJ (Tema 1.288). Textos conferidos no Planalto em 2026-11-10. Os modelos de contrato do inventário aguardam os textos originais; nada foi inventado.
+Lei 4.591/1964, Lei 9.514/1997, Lei 13.786/2018, Lei 14.382/2022, Lei 14.711/2023, Código Civil e jurisprudência do STJ (Tema 1.288). Textos conferidos no Planalto em 2026-11-10. Dez dos dezesseis modelos do inventário têm texto integral conferido em 18/11/2026; os seis restantes aguardam os textos originais; nada foi inventado.
 
 ## Licença
 
